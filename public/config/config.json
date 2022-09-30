@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x9c375Ab848fB9f9B62930c7d55115494B079524a",
-  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x9c375Ab848fB9f9B62930c7d55115494B079524a/transactions",
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "https://mainnet.ethwscan.com",
   "NETWORK": {
-    "NAME": "Dogechain Mainnet",
-    "SYMBOL": "DOGE",
-    "ID": 2000
+    "NAME": "ETHW-mainnet",
+    "SYMBOL": "ETHW",
+    "ID": 10001
   },
-  "NFT_NAME": "Based Bears",
-  "SYMBOL": "BBears",
-  "MAX_SUPPLY": 350,
-  "WEI_COST": 50000000000000000000,
-  "DISPLAY_COST": 50,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Oasis",
-  "MARKETPLACE_LINK": "https://oasis-nft.dog/collection/",
-  "SHOW_BACKGROUND": false
+  "NFT_NAME": "ETHWYatchApes",
+  "SYMBOL": "ETHWYatchApes",
+  "MAX_SUPPLY": 10000,
+    "WEI_COST": 490000000000000000,
+    "DISPLAY_COST": 0.49,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "PowSea",
+    "MARKETPLACE_LINK": "https://powsea.finance/collection/",
+    "SHOW_BACKGROUND": false
 }
