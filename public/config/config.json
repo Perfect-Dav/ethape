@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "",
-  "SCAN_LINK": "https://mainnet.ethwscan.com",
+  "CONTRACT_ADDRESS": "0x157002433B62e0dec21f97940EbE548362084CaF",
+  "SCAN_LINK": "https://mainnet.ethwscan.com/0x157002433B62e0dec21f97940EbE548362084CaF",
   "NETWORK": {
     "NAME": "ETHW-mainnet",
     "SYMBOL": "ETHW",
@@ -13,6 +13,6 @@
     "DISPLAY_COST": 0.49,
     "GAS_LIMIT": 285000,
     "MARKETPLACE": "PowSea",
-    "MARKETPLACE_LINK": "https://powsea.finance/collection/",
+    "MARKETPLACE_LINK": "https://powsea.finance/collection/0x157002433B62e0dec21f97940EbE548362084CaF",
     "SHOW_BACKGROUND": false
 }
